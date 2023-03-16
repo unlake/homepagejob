@@ -1,2 +1,2 @@
 # homepagejob
-foundation lesson html page from pics
+foundation lesson html-page from pics
