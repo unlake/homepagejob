@@ -1,6 +1,37 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+ul{
+list-style-type: none;
+display: inline-block;
+}
+li{list-style-type: none;
+display: inline-block;}
+
+
+
+.logowolf{max-width: 100px; max-height: 100px;}
+
 .header{
 font-family: 'Times New Roman', Times, serif;
 font-size: 42px;
 font-weight: bolder;
+display: flex;
+justify-content: space-between;
 
+
+
+} 
+.secondrow{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: space-around;
+    align-items: center;
+    
+    
 }
